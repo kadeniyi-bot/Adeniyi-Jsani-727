@@ -1,11 +1,12 @@
 ---
 title: "A Text-Based Analysis of Measles Outbreak Narratives in CDC Reports and Their Associations With State Demographic Patterns"
+author: " Group 4 Jamila Sani and Kehinde O. Adeniyi" 
+subtitle: "Due at 11:59pm on December 10."
 format: pdf
-authors: Jamila Sani & Kehinde Adeniyi
 editor: visual
 ---
 
-GitHub:<https://github.com/kadeniyi-bot/727_group_project.git>
+GitHub:<https://github.com/kadeniyi-bot/Adeniyi-Jsani-727.git>
 
 ## **SUMMARY OF PROPOSAL**
 
